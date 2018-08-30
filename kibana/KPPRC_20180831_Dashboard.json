@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "0e282210-ab98-11e8-be5b-6d39807b5aae",
+    "_type": "dashboard",
+    "_source": {
+      "title": "KPPRC 20180831 Dashboard",
+      "hits": 0,
+      "description": "",
+      "panelsJSON": "[{\"panelIndex\":\"1\",\"gridData\":{\"x\":0,\"y\":0,\"w\":48,\"h\":21,\"i\":\"1\"},\"version\":\"6.3.2\",\"type\":\"visualization\",\"id\":\"e6e7aa80-f226-11e6-a9f5-7994c2b58fa3\",\"embeddableConfig\":{\"mapCenter\":[14.944784875088372,5.097656250000001],\"mapZoom\":2}},{\"panelIndex\":\"2\",\"gridData\":{\"x\":0,\"y\":36,\"w\":24,\"h\":15,\"i\":\"2\"},\"version\":\"6.3.2\",\"type\":\"visualization\",\"id\":\"cadb35c0-f22e-11e6-a9f5-7994c2b58fa3\",\"embeddableConfig\":{}},{\"panelIndex\":\"3\",\"gridData\":{\"x\":24,\"y\":21,\"w\":24,\"h\":15,\"i\":\"3\"},\"version\":\"6.3.2\",\"type\":\"visualization\",\"id\":\"0162b690-f22f-11e6-a9f5-7994c2b58fa3\",\"embeddableConfig\":{}},{\"panelIndex\":\"4\",\"gridData\":{\"x\":0,\"y\":51,\"w\":24,\"h\":15,\"i\":\"4\"},\"version\":\"6.3.2\",\"type\":\"visualization\",\"id\":\"e27ed880-f22e-11e6-a9f5-7994c2b58fa3\",\"embeddableConfig\":{}},{\"panelIndex\":\"5\",\"gridData\":{\"x\":24,\"y\":36,\"w\":24,\"h\":15,\"i\":\"5\"},\"version\":\"6.3.2\",\"type\":\"visualization\",\"id\":\"157a4c60-f22f-11e6-a9f5-7994c2b58fa3\",\"embeddableConfig\":{}},{\"panelIndex\":\"6\",\"gridData\":{\"x\":0,\"y\":66,\"w\":48,\"h\":18,\"i\":\"6\"},\"version\":\"6.3.2\",\"type\":\"visualization\",\"id\":\"53f29ba0-ab97-11e8-be5b-6d39807b5aae\",\"embeddableConfig\":{}},{\"panelIndex\":\"7\",\"gridData\":{\"x\":0,\"y\":21,\"w\":24,\"h\":15,\"i\":\"7\"},\"version\":\"6.3.2\",\"type\":\"visualization\",\"id\":\"72a7d2b0-f22d-11e6-a9f5-7994c2b58fa3\",\"embeddableConfig\":{}}]",
+      "optionsJSON": "{\"darkTheme\":false,\"useMargins\":true,\"hidePanelTitles\":false}",
+      "version": 1,
+      "timeRestore": false,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"query\":{\"query\":\"\",\"language\":\"kuery\"},\"filter\":[],\"highlightAll\":true,\"version\":true}"
+      }
+    }
+  }
+]
